@@ -28,6 +28,7 @@ In this repo i will keep adding more and more defi vulnerabilities for solidity 
 | 15 | Transaction origin |
 | 16 | Unsafe call |
 | 17 | Visibility |
+| 18 | Unchecked External Call |
 
 **Stay safe!**
 
